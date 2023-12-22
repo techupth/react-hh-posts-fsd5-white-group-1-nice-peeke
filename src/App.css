@@ -41,7 +41,7 @@ body {
 }
 
 .post-item {
-  font-size: 30px;
+  font-size: 26px;
   color: var(--primary-color);
   background-color: var(--highlight-color);
   border-radius: 10px;
